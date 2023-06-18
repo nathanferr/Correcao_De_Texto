@@ -1,4 +1,4 @@
-# CorrecaoDeTexto
+# Correção de Texto
 
 Esse trabalho foi desenvolvido durante o curso da faculdade para o estudo da linguagem C.
 
