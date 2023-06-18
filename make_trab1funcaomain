@@ -1,0 +1,8 @@
+trab1funcaomain: trab1.o trab1funcaomain.o
+	gcc -o trab1funcaomain trab1.o trab1funcaomain.o
+
+trab1.o: trab1.c
+	gcc -c trab1.c
+
+trab1funcaomain.o: trab1funcaomain.c trab1.h
+	gcc -c trab1funcaomain.c
